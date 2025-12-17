@@ -6,6 +6,7 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SrinuTirumanisetti/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0347-top-k-frequent-elements](https://github.com/SrinuTirumanisetti/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0904-fruit-into-baskets](https://github.com/SrinuTirumanisetti/Leetcode/tree/master/0904-fruit-into-baskets) |
 ## Binary Search
 |  |
 | ------- |
@@ -14,6 +15,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/SrinuTirumanisetti/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0904-fruit-into-baskets](https://github.com/SrinuTirumanisetti/Leetcode/tree/master/0904-fruit-into-baskets) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -38,4 +40,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/SrinuTirumanisetti/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Sliding Window
+|  |
+| ------- |
+| [0904-fruit-into-baskets](https://github.com/SrinuTirumanisetti/Leetcode/tree/master/0904-fruit-into-baskets) |
 <!---LeetCode Topics End-->
