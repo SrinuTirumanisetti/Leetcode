@@ -48,4 +48,5 @@
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/SrinuTirumanisetti/Leetcode/tree/master/0197-rising-temperature) |
+| [1661-average-time-of-process-per-machine](https://github.com/SrinuTirumanisetti/Leetcode/tree/master/1661-average-time-of-process-per-machine) |
 <!---LeetCode Topics End-->
