@@ -6,6 +6,7 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SrinuTirumanisetti/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0347-top-k-frequent-elements](https://github.com/SrinuTirumanisetti/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0525-contiguous-array](https://github.com/SrinuTirumanisetti/Leetcode/tree/master/0525-contiguous-array) |
 | [0904-fruit-into-baskets](https://github.com/SrinuTirumanisetti/Leetcode/tree/master/0904-fruit-into-baskets) |
 ## Binary Search
 |  |
@@ -15,6 +16,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/SrinuTirumanisetti/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0525-contiguous-array](https://github.com/SrinuTirumanisetti/Leetcode/tree/master/0525-contiguous-array) |
 | [0904-fruit-into-baskets](https://github.com/SrinuTirumanisetti/Leetcode/tree/master/0904-fruit-into-baskets) |
 ## Divide and Conquer
 |  |
@@ -51,4 +53,8 @@
 | [0577-employee-bonus](https://github.com/SrinuTirumanisetti/Leetcode/tree/master/0577-employee-bonus) |
 | [1661-average-time-of-process-per-machine](https://github.com/SrinuTirumanisetti/Leetcode/tree/master/1661-average-time-of-process-per-machine) |
 | [1934-confirmation-rate](https://github.com/SrinuTirumanisetti/Leetcode/tree/master/1934-confirmation-rate) |
+## Prefix Sum
+|  |
+| ------- |
+| [0525-contiguous-array](https://github.com/SrinuTirumanisetti/Leetcode/tree/master/0525-contiguous-array) |
 <!---LeetCode Topics End-->
