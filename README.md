@@ -16,6 +16,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/SrinuTirumanisetti/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0347-top-k-frequent-elements](https://github.com/SrinuTirumanisetti/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0525-contiguous-array](https://github.com/SrinuTirumanisetti/Leetcode/tree/master/0525-contiguous-array) |
 | [0904-fruit-into-baskets](https://github.com/SrinuTirumanisetti/Leetcode/tree/master/0904-fruit-into-baskets) |
@@ -64,4 +65,8 @@
 |  |
 | ------- |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/SrinuTirumanisetti/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+## String
+|  |
+| ------- |
+| [0205-isomorphic-strings](https://github.com/SrinuTirumanisetti/Leetcode/tree/master/0205-isomorphic-strings) |
 <!---LeetCode Topics End-->
