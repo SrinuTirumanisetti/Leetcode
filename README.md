@@ -10,6 +10,7 @@
 | [0525-contiguous-array](https://github.com/SrinuTirumanisetti/Leetcode/tree/master/0525-contiguous-array) |
 | [0904-fruit-into-baskets](https://github.com/SrinuTirumanisetti/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [3074-apple-redistribution-into-boxes](https://github.com/SrinuTirumanisetti/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/SrinuTirumanisetti/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Binary Search
 |  |
 | ------- |
@@ -31,6 +32,7 @@
 | [0347-top-k-frequent-elements](https://github.com/SrinuTirumanisetti/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/SrinuTirumanisetti/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [3074-apple-redistribution-into-boxes](https://github.com/SrinuTirumanisetti/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/SrinuTirumanisetti/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -68,6 +70,7 @@
 | ------- |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/SrinuTirumanisetti/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [3074-apple-redistribution-into-boxes](https://github.com/SrinuTirumanisetti/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/SrinuTirumanisetti/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 ## String
 |  |
 | ------- |
