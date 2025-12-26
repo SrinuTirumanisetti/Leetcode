@@ -65,6 +65,7 @@
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/SrinuTirumanisetti/Leetcode/tree/master/0525-contiguous-array) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/SrinuTirumanisetti/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Greedy
 |  |
 | ------- |
@@ -75,4 +76,5 @@
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/SrinuTirumanisetti/Leetcode/tree/master/0205-isomorphic-strings) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/SrinuTirumanisetti/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 <!---LeetCode Topics End-->
