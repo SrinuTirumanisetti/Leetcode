@@ -77,4 +77,12 @@
 | ------- |
 | [0205-isomorphic-strings](https://github.com/SrinuTirumanisetti/Leetcode/tree/master/0205-isomorphic-strings) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/SrinuTirumanisetti/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/SrinuTirumanisetti/Leetcode/tree/master/0338-counting-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/SrinuTirumanisetti/Leetcode/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
