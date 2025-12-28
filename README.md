@@ -9,12 +9,14 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/SrinuTirumanisetti/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0525-contiguous-array](https://github.com/SrinuTirumanisetti/Leetcode/tree/master/0525-contiguous-array) |
 | [0904-fruit-into-baskets](https://github.com/SrinuTirumanisetti/Leetcode/tree/master/0904-fruit-into-baskets) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SrinuTirumanisetti/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [3074-apple-redistribution-into-boxes](https://github.com/SrinuTirumanisetti/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/SrinuTirumanisetti/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Binary Search
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SrinuTirumanisetti/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SrinuTirumanisetti/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -85,4 +87,8 @@
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/SrinuTirumanisetti/Leetcode/tree/master/0338-counting-bits) |
+## Matrix
+|  |
+| ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SrinuTirumanisetti/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
