@@ -98,4 +98,12 @@
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/SrinuTirumanisetti/Leetcode/tree/master/0367-valid-perfect-square) |
+## Linked List
+|  |
+| ------- |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/SrinuTirumanisetti/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/SrinuTirumanisetti/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
