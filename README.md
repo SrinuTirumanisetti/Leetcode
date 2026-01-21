@@ -13,6 +13,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SrinuTirumanisetti/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [3074-apple-redistribution-into-boxes](https://github.com/SrinuTirumanisetti/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/SrinuTirumanisetti/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/SrinuTirumanisetti/Leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -90,6 +91,7 @@
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/SrinuTirumanisetti/Leetcode/tree/master/0338-counting-bits) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/SrinuTirumanisetti/Leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Matrix
 |  |
 | ------- |
