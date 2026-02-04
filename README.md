@@ -13,6 +13,7 @@
 | [0525-contiguous-array](https://github.com/SrinuTirumanisetti/Leetcode/tree/master/0525-contiguous-array) |
 | [0904-fruit-into-baskets](https://github.com/SrinuTirumanisetti/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/SrinuTirumanisetti/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
+| [1248-count-number-of-nice-subarrays](https://github.com/SrinuTirumanisetti/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SrinuTirumanisetti/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [3074-apple-redistribution-into-boxes](https://github.com/SrinuTirumanisetti/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/SrinuTirumanisetti/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -31,6 +32,7 @@
 | [0525-contiguous-array](https://github.com/SrinuTirumanisetti/Leetcode/tree/master/0525-contiguous-array) |
 | [0904-fruit-into-baskets](https://github.com/SrinuTirumanisetti/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/SrinuTirumanisetti/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
+| [1248-count-number-of-nice-subarrays](https://github.com/SrinuTirumanisetti/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -64,6 +66,7 @@
 | ------- |
 | [0904-fruit-into-baskets](https://github.com/SrinuTirumanisetti/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/SrinuTirumanisetti/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
+| [1248-count-number-of-nice-subarrays](https://github.com/SrinuTirumanisetti/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Database
 |  |
 | ------- |
@@ -76,6 +79,7 @@
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/SrinuTirumanisetti/Leetcode/tree/master/0525-contiguous-array) |
+| [1248-count-number-of-nice-subarrays](https://github.com/SrinuTirumanisetti/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/SrinuTirumanisetti/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Greedy
 |  |
@@ -108,6 +112,7 @@
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/SrinuTirumanisetti/Leetcode/tree/master/0367-valid-perfect-square) |
+| [1248-count-number-of-nice-subarrays](https://github.com/SrinuTirumanisetti/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Linked List
 |  |
 | ------- |
