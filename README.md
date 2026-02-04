@@ -6,6 +6,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SrinuTirumanisetti/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SrinuTirumanisetti/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0045-jump-game-ii](https://github.com/SrinuTirumanisetti/Leetcode/tree/master/0045-jump-game-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SrinuTirumanisetti/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0347-top-k-frequent-elements](https://github.com/SrinuTirumanisetti/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/SrinuTirumanisetti/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -79,6 +80,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/SrinuTirumanisetti/Leetcode/tree/master/0045-jump-game-ii) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/SrinuTirumanisetti/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [3074-apple-redistribution-into-boxes](https://github.com/SrinuTirumanisetti/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/SrinuTirumanisetti/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -90,6 +92,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/SrinuTirumanisetti/Leetcode/tree/master/0045-jump-game-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SrinuTirumanisetti/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/SrinuTirumanisetti/Leetcode/tree/master/0338-counting-bits) |
 ## Bit Manipulation
