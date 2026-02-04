@@ -114,4 +114,20 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SrinuTirumanisetti/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/SrinuTirumanisetti/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/SrinuTirumanisetti/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/SrinuTirumanisetti/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/SrinuTirumanisetti/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/SrinuTirumanisetti/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
