@@ -8,6 +8,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SrinuTirumanisetti/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0045-jump-game-ii](https://github.com/SrinuTirumanisetti/Leetcode/tree/master/0045-jump-game-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SrinuTirumanisetti/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0238-product-of-array-except-self](https://github.com/SrinuTirumanisetti/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/SrinuTirumanisetti/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/SrinuTirumanisetti/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0525-contiguous-array](https://github.com/SrinuTirumanisetti/Leetcode/tree/master/0525-contiguous-array) |
@@ -78,6 +79,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/SrinuTirumanisetti/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0525-contiguous-array](https://github.com/SrinuTirumanisetti/Leetcode/tree/master/0525-contiguous-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SrinuTirumanisetti/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/SrinuTirumanisetti/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
